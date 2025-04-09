@@ -49,6 +49,15 @@ const blocks =  [
     new Block (450,210), 
     // new Block (560,270), 
     // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    // new Block (670,270), 
+    
 ]
 console.log(blocks[0]) 
 function theBlocks() {
